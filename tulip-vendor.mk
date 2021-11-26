@@ -1112,6 +1112,7 @@ PRODUCT_PACKAGES += \
     IWlanService \
     TimeService \
     PowerOffAlarm \
+    datastatusnotification \
     QtiTelephonyService \
     imssettings \
     uceShimService \
