@@ -21,6 +21,8 @@ build error with this file.
     <hal format="hidl">
         <name>android.hardware.drm</name>
         <transport>hwbinder</transport>
+        <fqname>@1.0::ICryptoFactory/default</fqname>
+        <fqname>@1.0::IDrmFactory/default</fqname>
         <fqname>@1.2::ICryptoFactory/widevine</fqname>
         <fqname>@1.2::IDrmFactory/widevine</fqname>
     </hal>
